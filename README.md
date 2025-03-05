@@ -23,3 +23,7 @@ The code related to the interaction with the external environment, such as the 3
 
 The integration with the LangChain Chatchat vector skill library is also partially shown. The code includes examples of how skills are managed within the library, such as skill summarization and task screening.
 
+### Code structure
+![image](https://github.com/user-attachments/assets/402a5273-7c5b-4b4b-82e1-969593894f6f)
+
+
