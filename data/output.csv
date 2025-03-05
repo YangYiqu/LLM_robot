@@ -1,0 +1,66 @@
+"put the grape at (1,1), and then move it to (2,2)","{'grape': (2.0, 2.0)}",[]
+"put the grape at (1,1), and then move it to (2,2)","{'grape': (2.0, 2.0)}",[]
+"put the grape at (1,1), and then move it to (2,2)","{'grape': (2.0, 2.0)}",[]
+"put the grape on the plate, and then bring the plate to the location of table","{'grape': (0.2, 0.5), 'plate': (0.9, 0.1), 'table': (0.9, 0.1)}","[['plate', 'table']]"
+"put the grape on the plate, and then bring the plate to the location of table","{'grape': (0.2, 0.5), 'plate': (0.9, 0.1), 'table': (0.9, 0.1)}","[['plate', 'table']]"
+move bear to the grass.,"{'bear': (1264.631552853819, 773.094552645367), 'grass': (1264.631552853819, 773.094552645367)}","[['bear', 'grass']]"
+move bear to the grass.,"{'bear': (1264.631552853819, 773.094552645367), 'grass': (1264.631552853819, 773.094552645367)}","[['bear', 'grass']]"
+move bear to the grass.,"{'bear': (1264.631552853819, 773.094552645367), 'grass': (1264.631552853819, 773.094552645367)}","[['bear', 'grass']]"
+move bear to the grass.,"{'bear': (1264.631552853819, 773.094552645367), 'grass': (1264.631552853819, 773.094552645367)}","[['bear', 'grass']]"
+move bear to the grass.,"{'bear': (1264.631552853819, 773.094552645367), 'grass': (1264.631552853819, 773.094552645367)}","[['bear', 'grass']]"
+move stick to the beach.,"{'stick': (1257.0663096332562, 777.9475471029342)}",[]
+move stick to the beach.,"{'stick': (667.5029850367096, 393.1392170312222), 'beach': (667.5029850367096, 393.1392170312222)}","[['stick', 'beach']]"
+move mango to the dragon fruit.,"{'mango': (608.0011362666569, 364.855872133426), 'dragon fruit': (608.0011362666569, 364.855872133426)}","[['mango', 'dragon fruit']]"
+move mango to the dragon fruit.,"{'mango': (608.0011362666569, 364.855872133426), 'dragon fruit': (608.0011362666569, 364.855872133426)}","[['mango', 'dragon fruit']]"
+move horse to the mountain.,"{'horse': (1143.62628292653, 673.3228551411667), 'mountain': (1143.62628292653, 673.3228551411667)}","[['horse', 'mountain']]"
+move knife to the plate.,"{'knife': (867.3048270619536, 395.93643101482326), 'plate': (550.6141055703195, 398.9108019384086)}",[]
+move knife to the plate.,"{'knife': (550.6141055703195, 398.9108019384086), 'plate': (550.6141055703195, 398.9108019384086)}","[['knife', 'plate']]"
+move knife to the plate.,"{'knife': (550.6115352346808, 398.89699789993693), 'plate': (550.6115352346808, 398.89699789993693)}","[['knife', 'plate']]"
+move knife to the plate.,"{'knife': (546.5943313358566, 432.4058296273472), 'plate': (546.5943313358566, 432.4058296273472)}","[['knife', 'plate']]"
+move mango to the dragon fruit.,"{'mango': (494.3772907069898, 443.5353620068095), 'dragon fruit': (494.3772907069898, 443.5353620068095)}","[['mango', 'dragon fruit']]"
+move cherry tomato to the rice.,"{'fork': (0.2, 0.1), 'cherry tomato': (0.2, 0.1), 'rice': (0.2, 0.1)}","[['fork', 'cherry tomato', 'rice']]"
+bring the porridge near the watermelon.,"{'porridge': (0.5, 0.6), 'spoon': (0.5, 0.6), 'watermelon': (0.5, 0.6)}","[['porridge', 'spoon', 'watermelon']]"
+bring the fork near the spoon.,"{'fork': (0.1, 0.1), 'spoon': (0.1, 0.1)}","[['fork', 'spoon']]"
+bring the porridge near the watermelon.,"{'porridge': (0.5, 0.6), 'fork': (0.5, 0.6), 'watermelon': (0.5, 0.6)}","[['porridge', 'fork', 'watermelon']]"
+bring the porridge near the watermelon.,"{'porridge': (0.5, 0.6), 'watermelon': (0.5, 0.6)}","[['porridge', 'watermelon']]"
+bring the porridge near the watermelon.,"{'porridge': (0.5, 0.6), 'spoon': (0.5, 0.6), 'watermelon': (0.5, 0.6)}","[['porridge', 'spoon', 'watermelon']]"
+Please feed the porridge into the mouth,"{'porridge': (0.2, 0.3), 'spoon': (0.2, 0.3), 'mouth': (0.2, 0.3)}","[['porridge', 'spoon', 'mouth']]"
+Please feed the cherry tomato into the mouth,"{'cherry tomato': (0.2, 0.3), 'mouth': (0.2, 0.3)}","[['cherry tomato', 'mouth']]"
+Please feed the cherry tomato into the mouth,"{'cherry tomato': (0.7, 0.8), 'fork': (0.7, 0.8)}","[['cherry tomato', 'fork']]"
+Please feed the cherry tomato into the mouth,"{'cherry tomato': (0.2, 0.3), 'fork': (0.2, 0.3), 'mouth': (0.2, 0.3)}","[['cherry tomato', 'fork', 'mouth']]"
+Please feed the cherry tomato into the mouth,"{'cherry tomato': (610.2999514679636, 2110.637904042249), 'fork': (610.2999514679636, 2110.637904042249), 'mouth': (610.2999514679636, 2110.637904042249)}","[['cherry tomato', 'fork', 'mouth']]"
+Please feed the cherry tomato into the mouth,"{'red gift box': (1199.2601409092636, 394.8258859052755), 'container': (1199.2366717440975, 395.2326351865956)}",[]
+Please feed the cherry tomato into the mouth,"{'container': (1199.2366717440975, 395.2326351865956)}",[]
+Please feed the cherry tomato into the mouth,"{'cherry tomato': (609.9632555242848, 1670.409350224808), 'fork': (609.9632555242848, 1670.409350224808), 'mouth': (609.9632555242848, 1670.409350224808)}","[['cherry tomato', 'fork', 'mouth']]"
+Please feed the cherry tomato into the mouth,"{'fridge': (966.1923662263347, 983.2771275948135), 'red gift box': (1066.330079761081, 351.12697429920723), 'bowl of fruit': (234.96867535154038, 202.13381929224025), 'bowl of rice': (304.15648725019577, 1112.944404725428), 'white soup': (234.6877225959636, 202.12866046695686)}",[]
+Please feed the rice into the mouth,"{'rice': (609.9632555242848, 1670.409350224808), 'mouth': (609.9632555242848, 1670.409350224808)}","[['rice', 'mouth']]"
+Please feed the rice into the mouth,"{'bowl of white rice': (609.9631479520656, 1670.4052122552896), 'spoon': (609.9631479520656, 1670.4052122552896), 'smiling mouth with bright white teeth': (609.9631479520656, 1670.4052122552896)}","[['bowl of white rice', 'spoon', 'smiling mouth with bright white teeth']]"
+Please feed the rice into the mouth,"{'rice': (609.9632555242848, 1670.409350224808), 'mouth': (609.9632555242848, 1670.409350224808)}","[['rice', 'mouth']]"
+Please feed the rice into the mouth,"{'rice': (609.9632555242848, 1670.409350224808), 'mouth': (609.9632555242848, 1670.409350224808)}","[['rice', 'mouth']]"
+Please feed the rice into the mouth,"{'bowl of white rice': (609.9631479520656, 1670.4052122552896), 'smiling mouth with bright white teeth': (609.9631479520656, 1670.4052122552896)}","[['bowl of white rice', 'smiling mouth with bright white teeth']]"
+Please feed the porriage into the mouth,"{'porridge': (609.9632555242848, 1670.409350224808), 'spoon': (609.9632555242848, 1670.409350224808), 'mouth': (609.9632555242848, 1670.409350224808)}","[['porridge', 'spoon', 'mouth']]"
+Please feed the beer can into the cabinet,"{'beer can': (270.9458716116593, 201.9284431590488), 'cabinet': (270.9458716116593, 201.9284431590488)}","[['beer can', 'cabinet']]"
+Please feed the beer can into the cabinet,"{'beer can': (307, 206, 1240), 'cabinet': (307, 206, 1240)}","[['beer can', 'cabinet']]"
+Please feed the beer can into the cabinet,{},[]
+Please feed the beer can into the cabinet,"{'beer can': (349, 227, 1010), 'cabinet': (349, 227, 1010)}","[['beer can', 'cabinet']]"
+Please feed the beer can into the cabinet,"{'beer can': (349, 227, 1010), 'cabinet': (349, 227, 1010)}","[['beer can', 'cabinet']]"
+Please feed the beer can into the cabinet,"{'beer can': (349, 227, 1010), 'cabinet': (349, 227, 1010)}","[['beer can', 'cabinet']]"
+Please feed the beer can into the cabinet,"{'can': (356, 294, 1454), 'cabinet': (356, 294, 1454)}","[['can', 'cabinet']]"
+Please feed the plate into the dustin,{},[]
+Please move the ball into the dustin,"{'ball': (224, 224, 3092)}",[]
+Please move the ball into the dustin,{},[]
+Please move the ball into the dustin,"{'ball': (86, 451, 0), 'dustbin': (86, 451, 0)}","[['ball', 'dustbin']]"
+open the cabinet and put the beer can into it,"{'beer can': (516, 122, 0)}",[]
+move the beer can to the cabinet,"{'beer can': (296, 205, 1205), 'cabinet': (296, 205, 1205)}","[['beer can', 'cabinet']]"
+move the beer can to the cabinet,"{'beer can': (116, 441, 0), 'cabinet': (116, 441, 0)}","[['beer can', 'cabinet']]"
+move the beer can to the desk,"{'beer can': (239, 256, 308)}",[]
+move the beer can to the desk,{},[]
+move the beer can to the cola can,"{'beer can': (334, 368, 0), 'cola can': (334, 368, 0)}","[['beer can', 'cola can']]"
+move the beer can to the cola can,"{'beer can': (318, 410, 0), 'cola can': (318, 410, 0)}","[['beer can', 'cola can']]"
+move the cola can to the plate,"{'cola can': (306, 324, 276)}",[]
+move the cola can to the hammer,"{'cola can': (209, 337, 270)}",[]
+move the cola can to the plate,"{'cola can': (487, 364, 395), 'plate': (487, 364, 395)}","[['cola can', 'plate']]"
+move the cola can to the plate,"{'cola can': (285, 401, 0), 'plate': (285, 401, 0)}","[['cola can', 'plate']]"
+move the cola can to the plate,"{'cola can': (405, 315, 504), 'plate': (405, 315, 504)}","[['cola can', 'plate']]"
+move cola can to the plate,"{'cola can': (494, 218, 508)}",[]
+move cola can to the plate,"{'red bottle cap': (412, 243, 766)}",[]

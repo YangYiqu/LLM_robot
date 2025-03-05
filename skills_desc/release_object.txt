@@ -1,0 +1,1 @@
+release_object: Call this tool API to control the robot. What is the release_object API useful for? Release the grabbed objects at the robot's current location. Only if you make sure the current location is the final location to put the grabbed objects, this action can be called。The Action Input should be: \{\} Parameters: [{}] Format the arguments as a JSON object.
