@@ -3,6 +3,16 @@
 ## Introduction
 The **ReAct** framework is designed to utilize a Large Language Model (LLM) as the core control unit of a robot. It enables seamless interaction with the external environment. By leveraging **grounded segments** and a depth camera for 3D reconstruction, the framework can accurately determine the target position coordinates. This allows the robot to perform a series of operations including information acquisition, reasoning, trajectory analysis, generation of task - specific operations, and reliable response delivery.
 
+## Used Technique
+| **Technology**                     | **Role in ReAct Framework**                                                       |
+|-------------------------------------|-----------------------------------------------------------------------------------|
+| **RAG (Retrieval-Augmented Generation)** | Retrieves relevant skills from the vector skill library to improve task execution accuracy. |
+| **ReAct (Reasoning + Acting)**      | Enables the robot to reason and execute tasks, facilitating autonomous decision-making. |
+| **3D Vision + Grounded Segmentation** | Helps the LLM understand the robot's environment and plan tasks accordingly.        |
+| **LangChain + Vector Database**     | Stores task information, historical interactions, and manages skills.              |
+| **Task Decomposition**              | Breaks complex tasks into smaller steps to improve execution efficiency.            |
+| **Self-Learning (Feedback Loop)**   | Optimizes robot skills based on task performance and feedback, enhancing future task success. |
+
 ## Key Features
 ### LLM as the Core Control Unit
 The LLM at the heart of the framework serves as the brain of the robot, processing various inputs and making intelligent decisions. It can understand natural language instructions and translate them into actionable commands for the robot.
